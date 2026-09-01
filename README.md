@@ -11,7 +11,7 @@
   <p>
     <a href="https://qasim-portfolio-six.vercel.app">🌐 Portfolio</a> ·
     <a href="https://github.com/qasimzahoor825">🐙 GitHub</a> ·
-    <a href="https://linkedin.com/in/qasim-zahoor853915347">💼 LinkedIn</a> ·
+    <a href="https://www.linkedin.com/in/qasim-zahoor-853915347/">💼 LinkedIn</a> ·
     <a href="mailto:qasimzahoor825@gmail.com">📧 Email</a>
   </p>
 
@@ -167,7 +167,7 @@ Full-stack airline booking platform ("B Airways") managing flights, passenger re
 
 <p align="center">
   <a href="https://github.com/qasimzahoor825"><img src="https://img.shields.io/badge/GitHub-qasimzahoor825-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/qasim-zahoor853915347"><img src="https://img.shields.io/badge/LinkedIn-Qasim%20Zahoor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/qasim-zahoor-853915347/"><img src="https://img.shields.io/badge/LinkedIn-Qasim%20Zahoor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://qasim-portfolio-six.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Qasim%20Zahoor-16a34a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:qasimzahoor825@gmail.com"><img src="https://img.shields.io/badge/Email-qasimzahoor825%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
