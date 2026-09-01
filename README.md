@@ -1,8 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240&height=140&section=header&text=Qasim%20Zahoor&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+
 <div align="center">
 
-  <h1>👋 Hi, I'm Qasim Zahoor</h1>
-
-  <h3>AI/ML Engineer | Full-Stack Developer | Agentic AI Enthusiast</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Full-Stack+Developer;Agentic+AI+Enthusiast;Building+Intelligent+Software" alt="Typing SVG" />
 
   <p>
     I build intelligent, scalable, and user-focused applications by combining AI/ML with modern full-stack technologies — from computer vision and LLM/RAG systems to real-time web platforms.
@@ -14,6 +14,8 @@
     <a href="https://www.linkedin.com/in/qasim-zahoor-853915347/">💼 LinkedIn</a> ·
     <a href="mailto:qasimzahoor825@gmail.com">📧 Email</a>
   </p>
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=qasimzahoor825.qasimzahoor825" /> <img src="https://hits.sh/github.com/qasimzahoor825/qasimzahoor825.svg" />
 
 </div>
 
@@ -112,17 +114,70 @@ Full-stack airline booking platform ("B Airways") managing flights, passenger re
 
 ## 🧰 Tech Stack
 
-**Languages:** Python · JavaScript · TypeScript · HTML/CSS · Java · C++ · C#
+**Languages:**
 
-**Frontend:** React · Next.js · Tailwind CSS · Streamlit
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-**Backend:** Node.js · Express · FastAPI · Django · Flask
+**Frontend:**
 
-**Databases:** MySQL · PostgreSQL · SQLite
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**AI / ML:** TensorFlow · Keras · OpenCV · scikit-learn · pandas · NumPy · NLTK · RAG · LLM (Ollama/ChromaDB)
+**Backend:**
 
-**Tools & DevOps:** Git · GitHub · Docker · Kafka · Redis · Vercel
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Databases:**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**AI / ML:**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-4a90d9?style=for-the-badge)
+
+**Tools & DevOps:**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 💪 Skill Areas
+
+**AI / ML:** ████████████░░░░░░ 75%
+
+**Full-Stack Development:** ██████████░░░░░░ 65%
+
+**Computer Vision:** ███████████░░░░░ 70%
+
+**NLP & LLM / RAG:** █████████░░░░░░░ 55%
+
+**Backend & APIs:** ██████████░░░░░░ 62%
 
 ---
 
@@ -171,3 +226,5 @@ Full-stack airline booking platform ("B Airways") managing flights, passenger re
   <a href="https://qasim-portfolio-six.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Qasim%20Zahoor-16a34a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:qasimzahoor825@gmail.com"><img src="https://img.shields.io/badge/Email-qasimzahoor825%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0a192f,100:112240" width="100%" />
